@@ -1,4 +1,4 @@
-# Samsung Android 11 Vanced Fix
+# Samsung/Nokia Android 11 Vanced Fix
 
 ![INSTALL_FAILED_UPDATE_INCOMPATIBLE](../Assets/SamsungIssue.jpg)
 
