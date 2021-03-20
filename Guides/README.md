@@ -7,3 +7,4 @@ Just search through the files and open the one you need and you'll be greeted wi
 ## Contributors
 
 - [Vendicated](https://github.com/Vendicated)
+- [Gghhkm](https://github.com/gghhkm)
